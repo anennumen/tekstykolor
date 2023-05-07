@@ -7,7 +7,7 @@ p{
     
     
 }
-p2{
+p:nth-of-type(2){
     color: #00008f;
 }
 body{
